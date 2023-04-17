@@ -1,0 +1,1 @@
+export const API = 'https://ticket-system-server.onrender.com'
